@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"テスト" : "ここに難易度表の名前",
+"★" : "ここにシンボル",
+"https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLjWS2gV3aRxD3Fw0VdyIvZXcnSqwgia1R52pE0P6kt_EAqztfQ93Fda8na-SSISBzSLfzGn1IMVFOZj5X6Y_F5Jbra2LZMlh3veb6kZOT-odEjYMd4EG0-lGeSm7DIRltg6ZmSCYKFZ0JZjbXoXni9XQtPmLm7yT4lCUw_PBHVpbopb7Xi2S4WCEDRKwRrNbaXciOcd4kENLPUz7ndPgDdf4SiEONHVqc2n_sBft3jGdY_LQnpdnYtMhTm3IkQCM47p8dCL1sxLKQp0QlgVvVvkZ04nb3mmoIAaNDdI&lib=MSxZNqsTJLqQtHxt_1v8zfKXuACY1vTMz" : "ここにJSONのURL"
 }
